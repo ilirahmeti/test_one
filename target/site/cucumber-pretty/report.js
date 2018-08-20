@@ -21,7 +21,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 3463992571,
+  "duration": 3096605429,
   "status": "passed"
 });
 formatter.scenario({
@@ -46,7 +46,7 @@ formatter.match({
   "location": "ScrollSD.iAmOnTheHomePage()"
 });
 formatter.result({
-  "duration": 225615402,
+  "duration": 243458485,
   "status": "passed"
 });
 formatter.match({
@@ -63,11 +63,11 @@ formatter.match({
   "location": "ScrollSD.iEnterNameAndDate(String,String)"
 });
 formatter.result({
-  "duration": 206208662,
+  "duration": 291748163,
   "status": "passed"
 });
 formatter.after({
-  "duration": 88312533,
+  "duration": 199656042,
   "status": "passed"
 });
 });
